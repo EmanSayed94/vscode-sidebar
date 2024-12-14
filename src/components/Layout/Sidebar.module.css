@@ -1,0 +1,10 @@
+.folder {
+    margin-left: 10px;
+}
+.sidebar {
+    min-width: 250px;
+    padding: 10px;
+    background-color: #252526;
+    overflow-y: auto;
+    resize: horizontal;
+  }

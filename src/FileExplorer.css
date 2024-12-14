@@ -1,0 +1,24 @@
+.file-explorer {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    width: 300px;
+    padding: 10px;
+  }
+  
+  .file-explorer h3 {
+    margin: 0 0 10px;
+  }
+  
+  .file-explorer div {
+    line-height: 1.5;
+  }
+  
+  .file-explorer .context-menu {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    z-index: 1000;
+  }
