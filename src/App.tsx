@@ -6,7 +6,7 @@ import Layout from "./components/Layout";
 const App = () => (
   <div className="app">
     <Layout>
-        <h1>Editor</h1>
+        <h2>Editor</h2>
     </Layout>
   </div>
 );
